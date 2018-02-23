@@ -25,3 +25,20 @@
   Let's first identify the demographics of the human population affected by shark attacks.  Victim age was available for 91 of the 108 recorded cases on the north american pacific coast during the twentieth century. The average age of a shark attack victim in these 91 cases was 29 years old.  The four major activities associated with this population during the shark attacks were related to surfing, kayaking, swimming, and diving.  Of these four activities, surfing and diving made up most of the victim group.  84% of the shark attack victims were either surfing or diving during the time of attack.  Jet skiing is anticipated to become the next victim group at some point.  
   When are shark attacks most likely to occur?  Statistics show attacks on humans occur in every month of the calender year, with a dramatic peak in August, September, and October.  Diving is very popular in these months, as underwater visibility and water temperature is very manageable during this time.  Shark attacks are caused by a variety of factors.  Surfers and divers have been prone to shark attacks when surfing and diving near large fish populations.  Water depth has also been a factor in shark attack occurences.  Most shark attacks have occured in the epipelagic zone, which includes the surface of the ocean, and two meters below the surface.  One to 10 fathoms is more specific depth range where shark attacks are most likely to occur.  Divers collecting and in possession of marine organisms have proven to be very susceptible to shark attacks.
   What types of sharks have been the major culprit of shark attacks?  Great white sharks is the dominant shark species that attacks people on a regular basis.  Some shark attack cases go unknown in identifying the responsible shark specie.  A small portion of shark attacks can be attributed to hammerhead and blue sharks.  
+  
+  Shark Attacks
+  Pacific Coast of North America
+  
+  108 Attacks      
+   (8 Fatal)        103 Attacks
+  ________           (5 Fatal)
+  |      |           ________   
+  | 94   |           | 92   |
+  | Great|           | Great|
+  | White|           | White|
+  |      |           |      |
+  |      |           |      |
+  |      |           |      |
+  ________           ________
+  1900-1999          2000-2017
+ 
